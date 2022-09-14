@@ -32,6 +32,10 @@ body {
     font-style: Arial;
 }
 
+.section-ow {
+    padding: 2rem;
+}
+
 .link {
     text-decoration: none;
     padding: 0.5rem 1rem;
@@ -74,20 +78,9 @@ body {
     border-bottom-left-radius: 1rem;
 }
 
-
-/* .nav .nav-brand {
-    font-weight: bold;
-} */
-
 .nav .nav-pill {
     text-align: right;
 }
-
-
-/* 
-.nav .link-active {
-    font-weight: bold;
-} */
 
 .hero {
     padding: 2rem;
@@ -102,14 +95,24 @@ body {
 .hero .hero-heading {
     padding-top: 1ren;
     text-align: center;
+    font-size: 1.1rem;
     /* color: rgba(150, 41, 41, 0); */
 }
 
-.hero .hero-heading .hero-inventer {
-    color: rgb(125, 54, 219);
+p {
+    display: block;
+    font-weight: bold;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
-.section h1 {
+.hero .hero-heading .hero-inventer {
+    color: rgb(1, 157, 247);
+}
+
+.section {
     text-align: center;
 }
 
