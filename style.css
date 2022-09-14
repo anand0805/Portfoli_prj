@@ -42,7 +42,7 @@ body {
 }
 
 .link-primary {
-    background-color: rgb(47, 152, 223);
+    background-color: #20B2AA;
     border-radius: 1rem;
     color: white;
 }
@@ -50,7 +50,7 @@ body {
 .link-secondary {
     background-color: white;
     border-radius: 1rem;
-    border: 1px solid rgb(47, 152, 223);
+    border: 1px solid #20B2AA;
     margin: auto;
     text-emphasis-color: black;
 }
@@ -72,7 +72,7 @@ body {
 
 .nav {
     display: block;
-    background-color: #48d7f0;
+    background-color: #20B2AA;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
@@ -109,7 +109,7 @@ p {
 }
 
 .hero .hero-heading .hero-inventer {
-    color: rgb(1, 157, 247);
+    color: #20B2AA;
 }
 
 .section {
@@ -130,7 +130,7 @@ p {
 }
 
 .footer {
-    background-color: rgb(47, 152, 223);
+    background-color: #20B2AA;
     padding: 2rem;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
