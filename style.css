@@ -2,6 +2,10 @@
     color: red;
 } */
 
+h2 {
+    color: #778899;
+}
+
 body {
     font-family: "Montserrat", sans-serif;
     margin: 0px auto;
@@ -28,8 +32,10 @@ body {
 
 .container-center {
     text-align: center;
-    text-justify: auto;
+    /* text-justify: auto; */
     font-style: Arial;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .section-ow {
