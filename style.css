@@ -33,6 +33,7 @@ body {
 .container-center {
     text-align: center;
     /* text-justify: auto; */
+    display: inline-block;
     font-style: Arial;
     text-align: justify;
     text-justify: inter-word;
